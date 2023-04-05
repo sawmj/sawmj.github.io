@@ -1,6 +1,6 @@
 ---
 title: PNPT Certification Review
-date: 2023-04-04
+date: 2023-04-05
 categories: [Reviews]
 tags: [review, pnpt, tcm, certification, cybersecurity, exam]
 ---
