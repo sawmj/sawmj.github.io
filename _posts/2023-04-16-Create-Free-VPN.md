@@ -7,11 +7,15 @@ tags: [tutorial, vpn, vps, free, cybersecurity, server, oracle, cloud]
 
 In this blogpost I will guide you on how to make your own free and private VPN.
 
+
+
 ## Content:
 - A quick explaination of what is VPN and why it's important.
 - Why would you want to make your own rather than using others' vpn services.
 - A step by step walkthrough of how to get and create your own free VPS and setup OpenVPN.
 - Sharing my hack to avoid your VPS gets deleted (Idle Instance Reclamation).
+
+![](/assets/img/vpn/OpenVPN_logo.svg.png)
 
 ## What is VPN ?
 
@@ -287,7 +291,8 @@ You are happy with your VPN and you're using it for a while, You suddenly receiv
 
 What does that mean?
 Any "Always Free" Server may be reclaimed by Oracle Cloud if it was idle for a period of 7-days, 
-Meaning if you don't use your Server for a week your server will be flagged as idle and it will be reclaimed/deleted.
+
+In another word, if you don't use your Server for a week your server will be flagged as idle and it will be reclaimed/deleted.
 
 And we don't want to Re-Create our VPN server every week, right?
 
@@ -324,3 +329,6 @@ Press "CTRL+X", Press "y", Press "Enter"
 
 - You will not get any Email to warn you for Idle Instance anymore.
 
+
+
+Hope you enjoyed the content and learnt something new!
