@@ -1,5 +1,5 @@
 ---
 layout: CV
-icon: fas fa-id-card-o
+icon: fas fa-money-check
 order: 5
 ---
