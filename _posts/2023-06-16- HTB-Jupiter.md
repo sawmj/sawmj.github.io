@@ -9,6 +9,7 @@ tags: [writeup, solve, hackthebox, hack, cybersecurity, machine, jupiter, ctf, h
 
 I recently solved this HTB machine and it was fun box, and wanted to share with you my writ-up.
 
+![](/assets/img/jupiter/Screenshot 2023-06-17 150912.png)
 
 ### Recon
 
