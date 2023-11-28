@@ -26,18 +26,19 @@ As well as Cyber Security Analyst (SOC), AWS cloud services and IAM/PAM solution
 {: .prompt-tip }
 
 
--	Secured and found more than 50 Web Application Vulnerabilities in many companies such as LinkedIn, Medium, IBM and many more.
+-	Secured and found more than 100 Web Application Vulnerabilities in many companies such as LinkedIn, Medium, IBM and many more.
 -	Hands-on experience in Network and Infrastructure Penetration Testing.
 -	Knowledge and hands-on experience required as a Cyber Security Analyst (SOC).
+-   Hands-on experience in IAM/PAM Solutions Implementation.
 -	Solid foundation in AWS cloud services. 
 
 
 > `Certifications`{: .filepath }
 {: .prompt-tip }
-(ISC)2: Certified in Cybersecurity (CC)					
-
-AWS: Certified Cloud Practitioner (CCP)					
-
 TCM Security: Practical Network Penetration Testing (PNPT)
 
 Security Blue Team: Blue Team 1 (BTL1)
+
+AWS: Certified Cloud Practitioner (CCP)					
+
+(ISC)2: Certified in Cybersecurity (CC)					

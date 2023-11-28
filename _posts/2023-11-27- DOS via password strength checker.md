@@ -15,6 +15,8 @@ The vulnerability is Denial of Service
 But first let's take a look of what DoS is:   
 A DOS most often happens when an application contains either functional or architectural flaws that allow for remote interactions to consume large quantities of the host system’s resources, which can lead to the system locking-up or otherwise failing to deliver content.
 
+### Case I
+
 I was testing on a website the registration page and precisely the password parameter,
 There's few attack vectors could happen here.
 
@@ -45,6 +47,7 @@ They fixed the issue by simply making the password complexity check happens afte
 
 -----
 
+### Case II
 
 After couple of weeks, I decided to come back to the same vulnerability and do further investigation and research.
 
