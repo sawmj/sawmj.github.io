@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: Resume
 icon: fas fa-money-check
 order: 5
 ---
