@@ -78,3 +78,5 @@ Abracadabra!! the server couldn't handle the request and didn't respond at all u
 Finally wrote the report and submitted it to the program. 
 
 ![Alt text](/assets/img/dos-h1/2023-10-31_11-03.png)
+
+![Alt text](/assets/img/dos-h1/Pasted image 20231225214240.png)
