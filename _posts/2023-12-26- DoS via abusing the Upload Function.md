@@ -100,3 +100,11 @@ And Violla as expected the server drowned in the hashing process and couldn't ha
 I went ahead and wrapped a summary along with all PoCs and send a nice report to the program.
 
 ![Alt text](/assets/img/dos-h1/2023-11-09_14-17.png)
+
+
+Unfortunately, this report was classified as medium severity because the program assessed the asset impact to be moderate, given that the vast majority of users don't frequently utilize the upload function.
+
+
+![Alt text](/assets/img/dos-h1/2023-12-26_23-41.png)
+
+
