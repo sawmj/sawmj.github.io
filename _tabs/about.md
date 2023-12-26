@@ -26,11 +26,12 @@ As well as Cyber Security Analyst (SOC), AWS cloud services and IAM/PAM solution
 {: .prompt-tip }
 
 
--	Secured and found more than 100 Web Application Vulnerabilities in many companies such as LinkedIn, Medium, IBM and many more.
--	Hands-on experience in Network and Infrastructure Penetration Testing.
--	Knowledge and hands-on experience required as a Cyber Security Analyst (SOC).
--   Hands-on experience in IAM/PAM Solutions Implementation.
--	Solid foundation in AWS cloud services. 
+- Secured and found more than 100 Web Application Vulnerabilities in many companies such as LinkedIn,
+Medium, IBM and many more.
+- Knowledge and experience as a Cyber Security Analyst (SOC Analyst).
+- Hands-on experience in Network and Infrastructure Penetration Testing.
+- Practical experience in IAM/PAM Solutions Implementation.
+- Solid foundation in AWS cloud services.
 
 
 > `Certifications`{: .filepath }
