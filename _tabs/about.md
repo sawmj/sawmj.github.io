@@ -26,7 +26,7 @@ As well as Incident Response, Threat Hunting, Detection Engineering, Threat Inte
 {: .prompt-tip }
 
 
-- 4+ years of experience in cyber security
+- 4+ years of experience in cyber security with experience in both offensive and defensive security. 
 - Secured and found more than 100 Web Application Vulnerabilities in many companies such as LinkedIn,
 Amazon, RSA, Medium, IBM and many more.
 - 1x CVE (CVE-2024-28058)
@@ -34,7 +34,7 @@ Amazon, RSA, Medium, IBM and many more.
 - Experience in Incident Response, Threat Hunting, Detection Engineering, Threat Intelligence.
 - Hands-on experience in Network and Infrastructure Penetration Testing.
 - Implement and integrate various security tools and technologies.
-- Managed multiple security solutions (SIEM,XDR,NDR,DLP,PAM,MFA, FIM, IDPS, WAF.....)
+- Managed multiple security solutions (SIEM, XDR, NDR, DLP, PAM, MFA, FIM, IDPS, WAF.....)
 - Solid foundation in AWS cloud services.
 
 > `Certifications`{: .filepath }
