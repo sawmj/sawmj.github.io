@@ -26,7 +26,7 @@ As well as Incident Response, Threat Hunting, Detection Engineering, Threat Inte
 {: .prompt-tip }
 
 
-- 4+ years of experience in cyber security with experience in both offensive and defensive security. 
+- 4+ years of experience in cyber security (in both offensive and defensive security). 
 - Secured and found more than 100 Web Application Vulnerabilities in many companies such as LinkedIn,
 Amazon, RSA, Medium, IBM and many more.
 - 1x CVE (CVE-2024-28058)
